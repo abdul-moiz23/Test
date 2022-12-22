@@ -13,6 +13,7 @@ namespace GITHub1
     {
         public static void Main(string[] args)
         {
+            Console.WriteLine("moiz");
             CreateHostBuilder(args).Build().Run();
         }
 
